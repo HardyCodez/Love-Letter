@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Love Letter</title>
+</head>
+<body>
+    <header>
+        <h1>My Love Letter to You</h1>
+    </header>
+    <main>
+        <section class="love-letter">
+            <p>
+                Dear Olivia,<br>
+                I present this web page from learning how to code and a little bit of boredom, also because I wanted to give you this message.
+            </p>
+                <p>
+                   <h4>It's been a great 5 months and 20 days since i've first laid my eyes on you. The first day when we did so much together, from games at Dave N Busters to watch Scream, and finally hanging with you and being at my first party. I will always remember this day as a wonderful start to our journey together. 
+                    From this day I knew we had something special going on and I was already set on being with you for the rest of my life. I said this before and I'll say it a million times again, you are perfect to me and is all I have ever wanted in a person. I want to treat you like a queen because that is what you are to me, I want try and give you the life you've always wanted because I want to make you happy. One of the most special days of my life is your 18th birthday which I got to tell you "I love you" which is something I had wanted to say for a while but I wanted to tell you on your birthday as a gift. If you ever need someone to talk I am here for you as I will always be and if I ever need someone to talk to you'll be that person.
+                   </h4>
+                </p>
+        </section>
+    </main>
+    <footer>
+        <p>With all my love,<br>Chris</p>
+    </footer>
+</body>
